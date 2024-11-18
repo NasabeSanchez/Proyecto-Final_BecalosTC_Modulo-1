@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
+body{
+    background-color: #E0CCD2;
+    font-family: "Doto", serif;
+}
+UL{
+    list-style: none;
+}
+/* Para acomodar vertical los contenedores*/
+input,label{
+    display: block;
+}
+input{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+#Data_form{
+    background-color: #F3EAF4;
+    border-radius: 5px;
+}
+#Flavor_form{
+    background-color: #E5CEDC;
+    border-radius: 5px;
+}
